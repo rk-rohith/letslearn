@@ -1,0 +1,88 @@
+.two-sum-container {
+  padding: 20px;
+  background-color: #f9f9f9; /* Light background */
+  color: #333; /* Dark text */
+  font-family: 'Roboto', sans-serif; /* Minimalistic font */
+}
+  
+  h1, h2,h3,h4 {
+    color: #030404; /* Highlighted headings */
+  }
+  
+  p, ul, ol {
+    margin: 10px 0;
+  }
+  
+  .example {
+    margin-bottom: 20px;
+  }
+  
+  .language-java {
+    background-color: #eaeff0; /* Light blue background for Java code */
+    padding: 10px;
+    border-radius: 4px;
+    display: block;
+    white-space: pre-wrap;
+    font-family: 'Roboto', sans-serif; /* Minimalistic font */
+    font-size: 16px;
+    font-weight:500;
+    line-height: 1.5; /* Add line spacing */
+  }
+
+  .language-java .comment {
+  color: #6a737d; /* Different color for comments */
+}
+  
+  .code-container {
+    position: relative;
+    margin-top: 20px;
+  }
+  
+  .copy-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #fafbfb; /* Teal background */
+    color: #0c0c0c; /* Yellow text */
+    border: 1px solid #f9f8f6; /* Yellow border */
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 12px;
+  }
+  
+  .copy-button:hover {
+    background-color: #f9f8f6; /* Yellow background on hover */
+    color: #1e1e1e; /* Dark text on hover */
+  }
+  
+  strong {
+    color: #030404; /* Highlighted text */
+  }
+
+  .visual-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  .visual-table th, .visual-table td {
+    border: 1px solid #444444;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .visual-table th {
+    background-color: #333333;
+    color: #ffcc00;
+  }
+  
+  .visual-table td {
+    background-color: #2c2c2c;
+    color: #ffffff;
+  }
+  
+  .pointer {
+    color: #ffcc00; /* Highlighted pointer */
+  }
+

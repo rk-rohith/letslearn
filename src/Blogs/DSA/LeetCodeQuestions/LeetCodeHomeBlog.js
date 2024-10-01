@@ -18,6 +18,7 @@ const LeetCodeHomeBlog = () => {
         </p>
         <ul>
         <li><Link to="/leetcode/two-sum">Two Sum</Link></li>
+        <li><Link to="/leetcode/longest-substring-without-repeating-characters">Longest Substring Without Repeating Characters</Link></li>
         {/* <li><Link to="/leetcode/reverse-integer">Reverse Integer</Link></li>
         <li><Link to="/leetcode/palindrome-number">Palindrome Number</Link></li>
         <li><Link to="/leetcode/maximum-subarray">Maximum Subarray</Link></li>
